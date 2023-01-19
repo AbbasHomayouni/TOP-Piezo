@@ -1,2 +1,2 @@
 # TOP-Piezo
-Topology Optimization Codes For Pizoelectricity
+Topology Optimization Codes For Piezoelectricity
